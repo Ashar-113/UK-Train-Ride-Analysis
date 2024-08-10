@@ -1,6 +1,6 @@
 # UK-Train-Ride-Analysis
 
-## Problem Statement
+## Dashboard Summary
 The dashboard is designed to evaluate certain aspects of the train rides across the UK. The dashboard highlights significant metrics; the percentage of delays and factors contributing to the delays. The dataset analysis indicates that 7.24% of the scheduled trains were delayed where weather conditions were a significant contributing factor followed by technical issues and signal failure. Investigating these two issues apart from the weather can yield a reduced proportion of train delays.
 
 
