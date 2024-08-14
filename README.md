@@ -5,7 +5,7 @@ The dashboard is designed to evaluate certain aspects of the train rides across 
 
 
 ### Data Preparation and Modelling
-Data was obtained from [Maven Analytics](https://www.mavenanalytics.io/) in a CSV format. It was loaded into Power Query for cleaning and sorting purposes as a prerequisite for the evaluation of the dataset.
+The data was loaded into Power Query from a CSV file for cleaning and sorting purposes as a prerequisite for the evaluation of the dataset.
 
 #### Data Modelling
 The data model consists of a table loaded into Power BI and a measure table. A measure table is a convenient and organised way to keep our measures in a single table. The illustration below shows the data model
