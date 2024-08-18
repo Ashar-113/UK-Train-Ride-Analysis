@@ -4,7 +4,7 @@
 The dashboard is designed to evaluate certain aspects of the train rides across the UK. The dashboard highlights significant metrics; the percentage of delays and factors contributing to the delays. The dataset analysis indicates that 7.24% of the scheduled trains were delayed where weather conditions were a significant contributing factor followed by technical issues and signal failure. Investigating these two issues apart from the weather can yield a reduced proportion of train delays.
 
 
-### Data Preparation and Modelling
+## Data Preparation and Modelling
 The data was loaded into Power Query from a CSV file for cleaning and sorting purposes as a prerequisite for the evaluation of the dataset.
 
 #### Data Modelling
@@ -81,7 +81,7 @@ Railcard Users % =
  DIVIDE(c,d)
  RETURN e
 ```
-### Dashboard Overview
+## Dashboard Overview
 Apart from the KPIs evaluated through DAX expression, the dashboard consists of other meaningful insights. The visual showing factors contributing to delay is significant in order to understand the problem. Other metrics such as peak hours and popular routes tell us about the activity on the trains and stations. Visuals that show revenue by ticket type and preferred class depict customer's preference and their purchasing behaviour.
 #
 ![Train](https://github.com/user-attachments/assets/b0bd64e2-97c5-486b-9fde-f378f1302916)
